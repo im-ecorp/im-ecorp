@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://github.com/im-ecorp/im-ecorp/blob/main/name.svg" alt="Marton Lederer" />
-</h1>
+</h2>
 
 - 👋 Hi, I’m @im-ecorp
 - 👀 I’m interested in Front-End , Python , and C++
