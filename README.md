@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/" alt="Marton Lederer" />
+</h1>
+
 - 👋 Hi, I’m @im-ecorp
 - 👀 I’m interested in Front-End , Python , and C++
 - 🌱 I’m currently learning Full-Stack , Python
