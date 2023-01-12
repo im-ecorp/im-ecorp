@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/im-ecorp/im-ecorp/blob/main/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/im-ecorp/im-ecorp/blob/master/name.svg" alt="Marton Lederer" />
 </h1>
 
 ## Hi 👋
