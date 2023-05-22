@@ -1,22 +1,37 @@
-<h1 align="center">
-  <img src="https://github.com/im-ecorp/im-ecorp/blob/master/name.svg" alt="Marton Lederer" />
-</h1>
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=700&height=70&lines=Hossein+Sepiol;im-ecorp;a+System+Administrator)](https://git.io/typing-svg)
+ 
+ </div>
+ 
+## Hi there 👋
 
-## Hi 👋
-- I’m Hossein3piol , I’m interested in Javacript , Php , Python and C++ . I’m currently learning Js
-<!-- lol -->
+### My name is Hossein, and I'm a System Administrator currently focusing on learning Docker & kubernetes 🌱.
 
-## Skills
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/documentation/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-## Contact Me
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhsaeidi81@gmail.com) : mhsaeidi81@gmail.com
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_sepioll) : [@sam_sepioll](https://t.me/sam_sepioll) on Telegram
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#) : [Hossein3piol#4214](./) on Discord
-<!---
-im-ecorp/im-ecorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
+
+#### Gmail: mhsaeidi81@gmail.com
+#### website: https://sepiol.online/
+
+
+#### Looking forward to connecting with you! 😄
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hossein3piol) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=im-ecorp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-ecorp&theme=gruvbox&hide_border=false)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=im-ecorp&icon=0&color=0)](https://visitcount.itsvg.in)
+
