@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=im-ecorp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=im-ecorp&theme=gruvbox&hide_border=false)<br/>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=im-ecorp&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=im-ecorp&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=highcontrast)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=im-ecorp&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
